@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aneeq Khurram</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+
 <a align="left"> <img src="https://raw.githubusercontent.com/ShoaibKakal/aneeqkhurram007/main/aneeq_gif.gif" alt="shoaibkakal" /> </a>
+<h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeqkhurram007&label=Profile%20views&color=0e75b6&style=flat" alt="aneeqkhurram007" /> </p>
 
